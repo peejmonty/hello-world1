@@ -1,1 +1,3 @@
 # hello-world1
+
+This is an example repository for demo purposes only...
