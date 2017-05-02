@@ -1,3 +1,4 @@
 # hello-world1
 
-This is an example repository for demo purposes only...
+My name is Phil I'm in ITC-136.
+Nicole Bade is a dope instructor.
